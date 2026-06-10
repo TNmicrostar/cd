@@ -1,0 +1,6 @@
+{
+  "name": "Trình tạo Video Công đoàn Cơ sở",
+  "description": "Ứng dụng trình chiếu, biên tập và xuất video truyền thông nội bộ về việc thành lập và quyền lợi khi tham gia Công đoàn cơ sở dành cho doanh nghiệp Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
